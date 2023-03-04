@@ -1,1 +1,2 @@
-egrep ^[[:alpha]] /ect/ssh/sshd_config
+#!/bin/bash
+egrep ^[[:alpha:]] /ect/ssh/sshd_config
